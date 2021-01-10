@@ -32,5 +32,5 @@
 
   :star_struck:	You can talk with chatbot at localhost:5000.
 
-  :star_struck:	Data_Collector folder stores all the conversations. This will help us when we [test the AI component]().
+  :star_struck:	Data_Collector folder stores all the conversations. This will help us when we [test the AI component](https://github.com/georgecristian97/Chatbot-Testing).
 
