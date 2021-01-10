@@ -1,0 +1,4 @@
+Hello
+Hi,Welcome to chatbot
+bye
+thank you for talking to me,have a nice day.
