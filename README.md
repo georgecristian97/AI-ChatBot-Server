@@ -7,6 +7,11 @@
 
 
 
+:hammer:	Edit with:
+[Download PyCharm: Python IDE for Professional Developers by JetBrains](https://www.jetbrains.com/pycharm/download/#section=windows)
+
+
+
 :gear:	Packages that you need:
 
 - pip install chatterbot
